@@ -1,2 +1,0 @@
-# SimplestDataFetchingICouldThinkOf
-Created with CodeSandbox
